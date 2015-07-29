@@ -7,4 +7,6 @@ Question 1: How do students use GitHub to collaborate on their writing project? 
 3. Writer 1- Review suggestions and then "Merge" and "commit" to make changes permanent 
 *Note: Writer 1 has ultimate control of the repository 
 
+OR... Can two collaborators simultaneously write in repository? (Settings/Add collaborator/search username)
+
 Question 2: How do teachers see student work and track changes? Can a third party join to track changes and make comments to each contributor's changes?
