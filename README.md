@@ -11,3 +11,4 @@ OR... Can two collaborators simultaneously write in repository? (Settings/Add co
 
 Question 2: How do teachers see student work and track changes? Can a third party join to track changes and make comments to each contributor's changes?
 This is a test from Carol
+Now we are figuring this out! 
