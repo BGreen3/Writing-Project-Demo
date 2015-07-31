@@ -45,7 +45,7 @@ Anticipatory Set/ Pre-writing:
 •	Students chart the plot of 3-4 picture books focusing on the theme of adventure (specifically getting a character from one place to another with a purpose), noticing different elements of a beginning, middle, and end
 •	3rd grade students prewrite the story by brainstorming a story line, using a plot diagram, focusing on beginning, middle, and end
 •	Discuss how in the collaborative writing process, the original idea may change based on the collaborator’s input
-• Upper School students up to this point in the semester have been examining correct usage, punctuation, and editing skills t
+• Upper School students up to this point in the semester have been examining correct usage, punctuation, and editing skills 
 
 Assessment:
 •	Teachers will be able to see the development of student drafts through GitHub software program
