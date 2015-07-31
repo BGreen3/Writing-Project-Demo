@@ -32,7 +32,7 @@ Elements shares final product with 3rd graders, meeting together to celebrate th
 Affective Objectives:
 •	Enjoy the creative writing process
 •	Reflect on the collaborative nature of writing 
-• Gain confidence in skills and abilities as writers, especially Upper School students who are placed in Elements based on     to help them develop writing skills 
+• Gain confidence in skills and abilities as writers, especially Upper School students who are placed in Elements based on     previously demonstrated needs as writers 
 
 Social Objectives:
 •	Learn collaboration skills, such as explicit communication
