@@ -4,11 +4,11 @@ Project Objective:
 
 All writing is collaborative, whether it is by peer mentoring, conferencing with a teacher, or working with an editor. The purpose of this project is to encourage the development of writing confidence and skill sets by pairing students of different age groups for this cross-campus, collaborative experience.
 
-To enhance our writing program, we will introduce GitHub as a means for students to collaborate on their stories. In effect, not only will students develop as collaborative writers as the primary objective states, but in addition, they will work with a program that many engineers and computer programmers use to communicate change in coding systems. Both of these objectives address 21st century skills, and will provide students with “Maker’s” tools. 
+To enhance our writing program, we will introduce GitHub as a means for Lower School and Upper School students to collaborate on their stories. In effect, not only will students develop as collaborative writers as the primary objective states, but in addition, they will work with a program that many engineers and computer programmers use to communicate change in coding systems. Both of these objectives address 21st century skills, and will provide students with “Maker’s” tools. 
 
 Embedded in GitHub is the ability to share our project worldwide. As the world’s largest open source community, students will be able to “publish” their projects and be visible to a wide audience. 
  
-The cost of the GitHub software that we will require is $22/month. This will allow for 20 private repositories with unlimited collaborators and use. We will need to to purchcasee this package for three months: November, December, January. 
+The cost of the GitHub software that we will require is $22/month. This will allow for 20 private repositories with unlimited collaborators and use. We will need to to purchcase this package for three months: November, December, January. 
 
 Third Grade Common Core Standards Alignment:
 •	Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. 
@@ -25,13 +25,14 @@ Cognitive Objectives:
 3rd grade begins- Elements revises, completes the beginning, and writes notes via GitHub to share ideas on story development
 3rd grade responds to Element’s suggestions- writes middle- Elements revises, completes middle, and writes notes via Git Hub to share ideas on development
 3rd grade responds to Element’s suggestions- writes resolution- Elements revises, completes end, revises complete work- edits- publishes, including illustrations
-Elements shares final product with 3rd graders 
+Elements shares final product with 3rd graders, meeting together to celebrate the writing process
 •	Learn how to use GitHub to communicate changes to writing collaborators 
 •	Publish writing process to the wider community via GitHub
 
 Affective Objectives:
 •	Enjoy the creative writing process
 •	Reflect on the collaborative nature of writing 
+• Gain confidence in skills and abilities as writers, especially Upper School students who are placed in Elements based on     to help them develop writing skills 
 
 Social Objectives:
 •	Learn collaboration skills, such as explicit communication
@@ -42,8 +43,9 @@ Anticipatory Set/ Pre-writing:
 •	3rd grade: Read various picture books/short stories 
 •	Students are introduced to a plot diagram
 •	Students chart the plot of 3-4 picture books focusing on the theme of adventure (specifically getting a character from one place to another with a purpose), noticing different elements of a beginning, middle, and end
-•	3rd grade students prewrite the by brainstorming a story line, using a plot diagram, focusing on beginning, middle, and end
+•	3rd grade students prewrite the story by brainstorming a story line, using a plot diagram, focusing on beginning, middle, and end
 •	Discuss how in the collaborative writing process, the original idea may change based on the collaborator’s input
+• Upper School students up to this point in the semester have been examining correct usage, punctuation, and editing skills t
 
 Assessment:
 •	Teachers will be able to see the development of student drafts through GitHub software program
@@ -79,8 +81,8 @@ Alternate/advanced revising strategy: (This will not affect the original documen
 3. Writer 1- Review suggestions and then "Merge" and "commit" to make changes permanent 
 
 Additional Possibilities: 
-1. Introduce basic code to the studnets, such as formatting a paragraph.
-2. Expand collaboration to upper school coding class to have other students format stories, using code more extensively.
+1. Introduce basic code to the students, such as formatting a paragraph.
+2. Expand collaboration to Upper School coding class to have other students format stories, using code more extensively.
 3. "Publish" writing projects to public forum for a broader audience. 
 
 
