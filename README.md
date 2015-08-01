@@ -18,6 +18,11 @@ Third Grade Common Core Standards Alignment:
 •	With guidance and support from peers and adults, produce writing in which the development and organization are appropriate to task and purpose. 
 •	With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing. 
 
+Ninth and Tenth Grade Common Core Standards Alignment
+• Demonstrate command of the conventions of standard English grammar and usage when writing.
+• Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.
+• Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
+
 Cognitive Objectives:
 •	Understand fiction story structure, including beginning, rising action, climax, falling action, resolution/denouement
 •	Use a graphic organizer (plot diagram) to brainstorm ideas 
