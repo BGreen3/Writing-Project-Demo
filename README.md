@@ -90,6 +90,6 @@ Additional Possibilities:
 2. Expand collaboration to Upper School coding class to have other students format stories, using code more extensively.
 3. "Publish" writing projects to public forum for a broader audience. 
 
-Summary:  Learning the program together was a true PBL experience as we began with the more com[plicated strategy outlined as the Alternate/dvanced revising strategy described above. Through trial and error and furhter investigation, the more practical method of setting up collaborators described above was discovered. Brooke and Carol have been revising this document using that first more practical method.
+Summary:  Learning the program together was a true PBL experience as we began with the more complicated strategy outlined as the alternate/advanced revising strategy described above. Through trial and error and furhter investigation, the more practical method of setting up collaborators described above was discovered. Brooke and Carol have been revising this document using that first more practical method.
 
 
